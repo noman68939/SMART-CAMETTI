@@ -1582,7 +1582,3 @@ function WalletPage({ onNavigate }) {
       </div>
     </div>
   );
-}
-
-/* ─── NOTIFICATIONS ──────────────────────────────────────────────────────── */
-function NotificationsPage({ onNavigate 
